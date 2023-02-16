@@ -1,2 +1,4 @@
-# anime-gate.list
-free json file fo anime list
+# INFO
+
+Hey, This An Anime API ,  Open-Source ,  <h2>You Can Use IT For Free !<h2/>
+
