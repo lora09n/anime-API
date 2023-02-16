@@ -8,10 +8,15 @@ Hey, This An Anime API ,  Open-Source ,  You Can Use IT For Free !
 
 
 # Code
-Html 
 
-   <h2> <div id="data-anime"></div>  </h2>
-  
+USE CODE BELOW 
+
+
+
+# HTML 
+```
+<div id="data-anime"></div> 
+  ```
 
 # JAVASCRIPT 
 
@@ -187,7 +192,15 @@ console.log('hey');
     font-size:24px;
   
   }
-  
+
        
+```
+
+
+# Help 
+
+This API made By Senioity Lana
+
+```
 
  
