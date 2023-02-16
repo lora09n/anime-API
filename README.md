@@ -15,9 +15,7 @@ Html
 
 # JAVASCRIPT 
 
-<h2> 
-
-fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data.json")
+<h2> fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data.json")
 .then(function(response){
 	return response.json();
 })
