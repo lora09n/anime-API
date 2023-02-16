@@ -15,7 +15,12 @@ Html
 
 # JAVASCRIPT 
 
-<h2> fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data.json")
+<h2> 
+
+```
+
+
+fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data.json")
 .then(function(response){
 	return response.json();
 })
@@ -47,7 +52,8 @@ console.log('hey');
 	placeholder.innerHTML = out;
 });
       
-       </h2>
+    ```
+
        
        Style CSS 
        <h4>
