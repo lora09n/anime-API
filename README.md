@@ -199,8 +199,11 @@ console.log('hey');
 
 # Help 
 
-This API made By Senioity Lana
+Made By Seniority Lana & Seniority Hama & Dev USA
+
+```
+Telegram: Anime_API 
+ 
 
 ```
 
- 
