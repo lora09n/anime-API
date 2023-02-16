@@ -50,7 +50,7 @@ console.log('hey');
        </h2>
        <br>
        Style CSS 
-       <h2>
+       <h4>
        
   .card {
     display: flexbox;
@@ -175,5 +175,4 @@ console.log('hey');
   
   }
   
-       </h2>
-       
+       </h4>
