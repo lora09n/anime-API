@@ -9,9 +9,9 @@ Hey, This An Anime API ,  Open-Source ,  You Can Use IT For Free !
 
 # Code
 Html 
-<h2>
-   <div id="data-anime"></div>
-  </h2>
+
+   <h2> <div id="data-anime"></div>  </h2>
+  
 
 # JAVASCRIPT 
 
@@ -52,11 +52,13 @@ console.log('hey');
 	placeholder.innerHTML = out;
 });
       
-    ```
+  
 
        
-       Style CSS 
-       
+# Style CSS 
+
+       ```
+
        
   .card {
     display: flexbox;
