@@ -15,7 +15,7 @@ Html
 
 # JAVASCRIPT 
 
-<h2> 
+
 
 ```
 
@@ -56,7 +56,7 @@ console.log('hey');
 
        
        Style CSS 
-       <h4>
+       
        
   .card {
     display: flexbox;
