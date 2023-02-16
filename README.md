@@ -30,7 +30,7 @@ fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data
 	return response.json();
 })
 .then(function(products){
-	let placeholder = document.querySelector("#datask");
+	let placeholder = document.querySelector("#data-anime");
 	let out = "";
 	for(let product of products){
 		out += `
