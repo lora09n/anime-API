@@ -12,9 +12,11 @@ Html
 <h2>
    <div id="data-anime"></div>
   </h2>
-<br>
-JAVASCRIPT 
+
+# JAVASCRIPT 
+
 <h2> 
+
 fetch("https://raw.githubusercontent.com/lora09n/anime-API/main/list/isekai/data.json")
 .then(function(response){
 	return response.json();
@@ -48,7 +50,7 @@ console.log('hey');
 });
       
        </h2>
-       <br>
+       
        Style CSS 
        <h4>
        
